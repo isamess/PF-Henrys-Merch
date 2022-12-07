@@ -1,5 +1,19 @@
 {
-  "dependencies": {
-    "typescript": "^4.9.3"
-  }
+  "name": "pf-henrysmerch",
+  "version": "1.0.0",
+  "description": "proyecto final del bootcamp soyHenry",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/isamess/PF-Henrys-Merch.git"
+  },
+  "author": "grupo2",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/isamess/PF-Henrys-Merch/issues"
+  },
+  "homepage": "https://github.com/isamess/PF-Henrys-Merch#readme"
 }
