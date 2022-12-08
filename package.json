@@ -15,5 +15,10 @@
   "bugs": {
     "url": "https://github.com/isamess/PF-Henrys-Merch/issues"
   },
-  "homepage": "https://github.com/isamess/PF-Henrys-Merch#readme"
+  "homepage": "https://github.com/isamess/PF-Henrys-Merch#readme",
+  "dependencies": {
+    "@reduxjs/toolkit": "^1.9.1",
+    "redux-typescript": "^1.2.1",
+    "template": "^0.17.5"
+  }
 }
